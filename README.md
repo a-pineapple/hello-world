@@ -1,2 +1,5 @@
 # hello-world
-the first repository
+Hello everybody,
+I am Ngan. 
+I am studying at PTIT.
+I want to become a successful deverloper . 
