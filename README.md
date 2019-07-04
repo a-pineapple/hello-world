@@ -2,4 +2,4 @@
 Hello everybody,
 I am Ngan. 
 I am studying at PTIT.
-I want to become a successful deverloper . 
+I want to become a successful developer . 
